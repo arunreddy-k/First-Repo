@@ -1,0 +1,11 @@
+git config
+pwd=present working directory
+mkdir (repo)
+cd 
+pwd 
+mkdir (folder)
+cd
+pwd
+touch (file)
+notepad file
+save
